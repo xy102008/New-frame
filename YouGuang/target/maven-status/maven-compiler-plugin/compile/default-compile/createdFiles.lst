@@ -1,0 +1,17 @@
+com\environmenttest\TestSuit.class
+com\testcase\DeleteMenuTest.class
+com\configurationdata\ReadConfigurationFile.class
+com\youguan\AppiumApi.class
+com\youguan\AppiumApi$1.class
+com\configurationdata\GetElementData.class
+com\environmenttest\InitTestEnvironment.class
+com\environmenttest\PhoneConfigure.class
+com\youguan\ThreadSleepMethod.class
+com\testcase\OrderMenuTest.class
+com\environmenttest\TestReport.class
+com\environmenttest\SendEmail.class
+com\testcase\LoginSystemTest.class
+com\youguan\myFormatter.class
+com\environmenttest\MyAuthenticator.class
+com\youguan\MyLogger.class
+com\testcase\SearchTest.class

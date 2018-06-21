@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+<book name = "element">
+    <name>ElementIDData</name>
+    <evaluate>C:\Users\LENOVO\AndroidStudioProjects\MyApplication\YouGuang\conf\ElementID.xlsx</evaluate>
+</book>
+<book name = "parameter">
+    <name>ParameterData</name>
+    <evaluate>C:\Users\LENOVO\AndroidStudioProjects\MyApplication\YouGuang\conf\parameter.xlsx</evaluate>
+</book>
+    <!-- 以下是邮箱配置内容 -->
+    <book name = "emailname">   <!-- 邮箱名称 -->
+        <evaluate>359353380@qq.com</evaluate>
+    </book>
+    <book name = "password">    <!-- 邮箱密码 -->
+        <evaluate>feng16684653</evaluate>
+    </book>
+    <book name = "MailServerHost">   <!-- 邮箱域名 -->
+        <evaluate>smtp.163.com</evaluate>
+    </book>
+    <book name = "ToAddress">    <!-- 收件人地址 -->
+        <evaluate>smtp.163.com</evaluate>
+    </book>
+    <book name = "FromAddress">      <!-- 发件人邮箱 -->
+        <evaluate>maventester@163.com</evaluate>
+    </book>
+    </map>
+<!-- 文件路径配置文件-->

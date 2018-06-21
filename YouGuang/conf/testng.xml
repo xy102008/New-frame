@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="product-gateway">
+    <test name="case1" preserve-order = "true">
+        <classes>
+            <class name="com.testcase.DeleteMenuTest"/>
+            <class name="com.testcase.LoginSystemTest"/>
+            <class name="com.testcase.SearchTest"/>
+            <class name="com.testcase.OrderMenuTest"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="product-gateway" duration-ms="20" started-at="2018-06-20T07:57:02Z" finished-at="2018-06-20T07:57:02Z">
+    <groups>
+    </groups>
+    <test name="case1" duration-ms="20" started-at="2018-06-20T07:57:02Z" finished-at="2018-06-20T07:57:02Z">
+      <class name="com.testcase.OrderMenuTest">
+        <test-method status="PASS" signature="addTest()[pri:0, instance:com.testcase.OrderMenuTest@327471b5]" name="addTest" duration-ms="0" started-at="2018-06-20T15:57:02Z" finished-at="2018-06-20T15:57:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTest -->
+      </class> <!-- com.testcase.OrderMenuTest -->
+      <class name="com.testcase.SearchTest">
+        <test-method status="PASS" signature="mateTest()[pri:0, instance:com.testcase.SearchTest@3567135c]" name="mateTest" duration-ms="1" started-at="2018-06-20T15:57:02Z" finished-at="2018-06-20T15:57:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mateTest -->
+      </class> <!-- com.testcase.SearchTest -->
+      <class name="com.testcase.LoginSystemTest">
+        <test-method status="PASS" signature="addTest()[pri:0, instance:com.testcase.LoginSystemTest@6be46e8f]" name="addTest" duration-ms="0" started-at="2018-06-20T15:57:02Z" finished-at="2018-06-20T15:57:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTest -->
+      </class> <!-- com.testcase.LoginSystemTest -->
+      <class name="com.testcase.DeleteMenuTest">
+        <test-method status="PASS" signature="addTest()[pri:0, instance:com.testcase.DeleteMenuTest@77b52d12]" name="addTest" duration-ms="4" started-at="2018-06-20T15:57:02Z" finished-at="2018-06-20T15:57:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTest -->
+      </class> <!-- com.testcase.DeleteMenuTest -->
+    </test> <!-- case1 -->
+  </suite> <!-- product-gateway -->
+</testng-results>
